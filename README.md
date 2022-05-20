@@ -10,9 +10,3 @@ I hope you find them interesting!
 
 
 
-
-
-
-
-##esercitazione03: intro matplotlib [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gian0711/rep01/blob/main/Esercitazione03/014_Matplotlib.ipynb)
-
