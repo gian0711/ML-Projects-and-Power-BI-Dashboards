@@ -8,4 +8,6 @@ In his repository you can find all my projects of Data visualization (Power BI),
 
 Check my Tableau projects on https://public.tableau.com/app/profile/gianluca.silvestri
 
+Check my online Portfolio on https://gian0711.github.io/GianlucaSilvestri.github.io/
+
 
